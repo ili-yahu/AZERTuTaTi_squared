@@ -2,7 +2,7 @@
 aliases: AZERTuTaTi² 1.0. Script Windows de raccourcis assyriologiques pour claviers AZERTY
 license: MIT
 date: 2024-10-16
-version: Release 1_0
+version: Release 1.0
 author: Ilī-Yahu
 contact: ili-yahu@pm.me
 ---
