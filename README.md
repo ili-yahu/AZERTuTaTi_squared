@@ -1,6 +1,6 @@
 ---
 aliases: AZERTuTaTi² 1.0. Script Windows de raccourcis assyriologiques pour claviers AZERTY
-license: CC BY-NC-SA
+license: MIT
 date: 2024-10-16
 version: Release 1_0
 author: Ilī-Yahu
