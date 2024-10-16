@@ -1,8 +1,14 @@
-﻿MsgBox("AZERTuTaTi² BETA 1.0 est lancé !"
+﻿;===============================
+; AZERTuTaTi² 1.0
+;===============================
+MsgBox("AZERTuTaTi² 1.0 est lancé !"
 	"`nVous n'avez pas besoin de garder cette fenetre ouverte car AZERTuTaTi² continuera à fonctionner en arrière-plan."
 	"`n`nAppuyez sur Ctrl+  Alt + ² pour afficher la liste complète des raccourcis disponibles."
 	"`nAppuyez sur Ctrl +  Alt + f si vous souhaitez désactiver le script."
 	)
+;===============================
+; Contrôle du script
+;===============================
 ; `n permet d'aller à la ligne dans le code
 #SingleInstance Force ; Pour qu'il n'y ait qu'une version du programme d'active
 ^!f::ExitApp ; Ctrl(^) +  Alt(!) + f permet de fermer le script
@@ -13,6 +19,8 @@
 	"`nShin (šŠ) = ²vs"
 	"`nH bref souscrit(ḫḪ) = ²vh"
 	"`nG nasalisé (g̃G̃) = ~~g"
+	"`ndemi-rong gauche = ²4'"
+	"`ndemi-rong droit = ²6'"
 	"`n`n*Longueur des voyelles :"
 	"`nVoyelles longues (āĀ,ēĒ,īĪ,ōŌ,ūū) = ²-a"
 	"`nVoyelles brèves (ăĂ,ĕĔ,ĭĬ,ŏŎ,ŭŬ) = ²ua"
@@ -46,12 +54,17 @@
 	"`n`nAppuyez sur Ctrl +  Alt + f si vous souhaitez désactiver le script."
 	)
 
+;===============================
+; Remapping des caractères
+;===============================
 ;le point d'interrogation ci-dessous permet de détecter la séquence dans un mot et l'astérix permet de ne pas dépendre d'un point, d'un espace ou d'un retour à la ligne
 :?*:²,s::ṣ
 :?*:²vs::š
 :?*:~~g::g̃
 :?*:²,t::ṭ
 :?*:²vh::ḫ
+:?*:²6'::ʾ
+:?*:²4'::ʿ
 :?*:²[7::⸢
 :?*:²[8::⸢
 :?*:²]8::⸣
@@ -155,7 +168,7 @@
 :?*:  "::&nbsp»
 :?*:  ?::&nbsp?
 :R?*:  !::&nbsp! 
-:R?*:  `;::&nbsp;
+:R?*:  `;::&nbsp&#59
 :R?*:  `:::&nbsp:
 #HotIf
 

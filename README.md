@@ -1,8 +1,8 @@
 ---
-aliases: AZERTuTaTi² BETA 1.0. Script Windows de raccourcis assyriologiques pour claviers AZERTY
+aliases: AZERTuTaTi² 1.0. Script Windows de raccourcis assyriologiques pour claviers AZERTY
 license: CC BY-NC-SA
-date: 2024-01-19
-version: BETA 1_0
+date: 2024-10-16
+version: Release 1_0
 author: Ilī-Yahu
 contact: ili-yahu@pm.me
 ---
@@ -29,6 +29,8 @@ Il suffit d'ouvrir le script avec AutoHotKey pour le lancer. Une fenêtre pop-up
 ## Logique
 Le script repose sur des chaines de caractères ("strings", appelé "hotstrings" par AutoHotKey) et quelques raccourcis pour intégrer les caractères spéciaux. Les strings comme les raccourcis ont été conçus dans l'optique d'être intuitifs et utilisables sur le plus de programme possible. La plupart des chaines débute avec le caractère relativement rare ² (d'où le nom du script) pour éviter de les entrer accidentellement.
 
+Attention, certaines séquences sont plus intuitives avec un pavé numérique.
+
 ## Commandes de base
 - `Ctrl+  Alt + ²` = afficher la liste complète des raccourcis et "hotstrings" disponibles
 - `Ctrl + Alt + f` = fermeture du script 
@@ -40,6 +42,8 @@ nb: Si tous les caractères tapés dans la string (séquence de caractères) son
 	- Shin (šŠ) = `²vs`
 	- H bref souscrit(ḫḪ) = `²vh`
 	- G nasalisé (g̃G̃ ou ĝĜ) = `~~g` ou `²^g`
+	- demi-rong gauche = `²4'`
+	- demi-rong droit = `²6'`
 - *Longueur des voyelles*
 	- Voyelles longues (āĀ, ēĒ, īĪ, ōŌ, ūū) = `²-a`, `²-e`, `²-i`, `²-o`, `²-u`
 	- Voyelles brèves (ăĂ, ĕĔ, ĭĬ, ŏŎ, ŭŬ) = `²ua`, `²ue`, `²ui`, `²uo`, `²uu`
