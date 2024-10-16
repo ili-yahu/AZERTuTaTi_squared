@@ -42,8 +42,8 @@ nb: Si tous les caractères tapés dans la string (séquence de caractères) son
 	- Shin (šŠ) = `²vs`
 	- H bref souscrit(ḫḪ) = `²vh`
 	- G nasalisé (g̃G̃ ou ĝĜ) = `~~g` ou `²^g`
-	- demi-rong gauche = `²4'`
-	- demi-rong droit = `²6'`
+	- demi-rong gauche (ʿ) = `²4'`
+	- demi-rong droit (ʾ) = `²6'`
 - *Longueur des voyelles*
 	- Voyelles longues (āĀ, ēĒ, īĪ, ōŌ, ūū) = `²-a`, `²-e`, `²-i`, `²-o`, `²-u`
 	- Voyelles brèves (ăĂ, ĕĔ, ĭĬ, ŏŎ, ŭŬ) = `²ua`, `²ue`, `²ui`, `²uo`, `²uu`
