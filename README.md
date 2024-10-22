@@ -1,8 +1,8 @@
 ---
-aliases: AZERTuTaTi² 1.0. Script Windows de raccourcis assyriologiques pour claviers AZERTY
+aliases: AZERTuTaTi² 1.1
 license: MIT
-date: 2024-10-16
-version: Release 1.0
+date: 2024-10-22
+version: Release 1.1
 author: Ilī-Yahu
 contact: ili-yahu@pm.me
 ---
@@ -71,6 +71,7 @@ nb: Si tous les caractères tapés dans la string (séquence de caractères) son
 	- g doux (ğĞ) = `²ug`
 	- s cédille (şŞ) = `²çs`
 - *Mathématiques*
+	- Apostrophe arrière/backtick (\`) = `²''`
 	- ±, ≠, ≃, √, © et → = `²+-`, `²=/=`, `~~=` ou `²~=`, `²root`, `²(c)`, `²-->`"
 	- Fraction unicode (⁄ ≠ /) = `²//`
 	- Fractions unicode irréductibles = `NUMÉRATEUR/DÉNOMINATEUR`

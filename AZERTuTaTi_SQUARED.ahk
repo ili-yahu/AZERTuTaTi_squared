@@ -1,7 +1,7 @@
 ﻿;===============================
-; AZERTuTaTi² 1.0
+; AZERTuTaTi² 1.1
 ;===============================
-MsgBox("AZERTuTaTi² 1.0 est lancé !"
+MsgBox("AZERTuTaTi² 1.1 est lancé !"
 	"`nVous n'avez pas besoin de garder cette fenetre ouverte car AZERTuTaTi² continuera à fonctionner en arrière-plan."
 	"`n`nAppuyez sur Ctrl+  Alt + ² pour afficher la liste complète des raccourcis disponibles."
 	"`nAppuyez sur Ctrl +  Alt + f si vous souhaitez désactiver le script."
@@ -46,6 +46,7 @@ MsgBox("AZERTuTaTi² 1.0 est lancé !"
 	"`nConsonnes avec hatchek (ďĎ, ľĽ, ťŤ) = ²vd ou ²d'"
 	"`nLettres avec un accent circonflexe (ĉĈ, ĝĜ, ĥĤ, ĵĴ, ŝŜ) = ²^c"
 	"`n`n*Mathématiques :"
+	"`nApostrophe arrière/backtick (\`) = ²''"
 	"`n±, ≠, ≃, √, ©, → = ²+-, ²=/=, ~~= ou ²~=, ²root, ²(c), ²-->"
 	"`nFraction unicode (⁄ ≠ /) = ²//"
 	"`nFractions unicode irréductibles = NUMÉRATEUR/DÉNOMINATEUR"
@@ -188,6 +189,7 @@ MsgBox("AZERTuTaTi² 1.0 est lancé !"
 :C?*:²çS::Ş ;la lettre C rend la chaine de caractères sensible à la casse pour pouvoir aussi taper le ş minuscule
 
 ;Signes mathématiques et caractères spéciaux
+:?*:²''::{U+0060}
 :?*:²+-::± 
 :?*:²=/=::≠
 :?*:~~=::≃
