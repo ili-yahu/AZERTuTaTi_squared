@@ -89,7 +89,7 @@ nb: Si tous les caractères tapés dans la string (séquence de caractères) son
 Il suffira de supprimer le dossier dans le dossier de démarrage (`Win + R` "shell:startup" ou "shell:common startup") pour le désinstaller
 
 ### Désactiver le pop-up d'accueil d'AZERTuTaTi
-Ouvrez le fichier d'AZERTuTaTi avec un éditeur de texte, par exemple, Bloc-notes livré avec toutes les versions de Microsoft Windows ou Notepad++, et ajoutez un simple point-virgule (;) au début des 5 premières lignes. **Attention, ouvrir le fichier avec un logiciel de traitement de texte (comme Microsoft Office Word ou LibreOffice Writer) risque de le corrompre.**
+Ouvrez le fichier d'AZERTuTaTi avec un éditeur de texte, par exemple, Bloc-notes livré avec toutes les versions de Microsoft Windows ou Notepad++, et ajoutez un simple point-virgule (;) au début des lignes 4-8 (la séquence MsgBox en somme). **Attention, ouvrir le fichier avec un logiciel de traitement de texte (comme Microsoft Office Word ou LibreOffice Writer) risque de le corrompre.**
 
 ### Retirer/modifier des fonctionnalités d'AZERTuTaTi
 Ouvrez le fichier d'AZERTuTaTi avec un éditeur de texte, par exemple, Bloc-notes livré avec toutes les versions de Microsoft Windows ou Notepad++, et ajoutez un simple point-virgule (;) au début des lignes contenant des raccourcis ou hotstrings qui ne vous conviennent pas. Quelques commentaires explicatifs accompagnent le script et devraient vous aider à réaliser des modifications mineures du script. Si vous souhaitez aller plus loin, je vous redirige vers la documentation (en anglais) d'AutoHotKey: https://www.autohotkey.com/docs/v2/
