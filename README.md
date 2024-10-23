@@ -4,7 +4,7 @@ license: MIT
 date: 2024-10-22
 version: Release 1.1
 author: Ilī-Yahu
-contact: ili-yahu@pm.me
+contact: Ili-Yahu@pm.me
 ---
 # Installation
 ## Avertissements
