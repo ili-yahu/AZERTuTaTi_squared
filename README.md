@@ -1,8 +1,8 @@
 ---
-aliases: AZERTuTaTi² 1.1
+aliases: AZERTuTaTi² 1.2
 license: MIT
-date: 2024-10-22
-version: Release 1.1
+date: 2024-10-30
+version: Release 1.2
 author: Ilī-Yahu
 contact: Ili-Yahu@pm.me
 ---
