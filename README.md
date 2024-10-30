@@ -62,6 +62,8 @@ nb: Si tous les caractères tapés dans la string (séquence de caractères) son
 		- nb: l'insécable est remplacé par un insécable en HTML (`&nbsp`) sur Obsidian
 	- Lettres ligaturées (œŒ, æÆ) = `²ao` ou `²oe`
 	- Point médian (·) = Alt + Point-virgule ou `²;`
+	- Tiret moyen (–) = `²--`
+	- Tiret long (—) = `²__`
 - *Tchèque et slovaque*
 	- Consonnes avec hatchek (ďĎ, ľĽ, ťŤ) = `²vd` ou `²d'`, `ľ` ou `ľ`, `²vt` ou `t'` 
 - *Turc*

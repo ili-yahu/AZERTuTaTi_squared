@@ -1,7 +1,7 @@
 ﻿;===============================
-; AZERTuTaTi² 1.1
+; AZERTuTaTi² 1.2
 ;===============================
-MsgBox("AZERTuTaTi² 1.1 est lancé !"
+MsgBox("AZERTuTaTi² 1.2 est lancé !"
 	"`nVous n'avez pas besoin de garder cette fenetre ouverte car AZERTuTaTi² continuera à fonctionner en arrière-plan."
 	"`n`nAppuyez sur Ctrl+  Alt + ² pour afficher la liste complète des raccourcis disponibles."
 	"`nAppuyez sur Ctrl +  Alt + f si vous souhaitez désactiver le script."
@@ -35,6 +35,8 @@ MsgBox("AZERTuTaTi² 1.1 est lancé !"
 	"`nnb: insécable remplacé par un insécable HTML sur Obsidian"
 	"`nLettres ligaturées (œŒ,æÆ) = ²oe"
 	"`nPoint médian (·) = Alt + Point-virgule ou ²;"
+	"`nTiret moyen (–) = ²--"
+	"`nTiret long (—) = ²__"
 	"`n`n*Turc :"
 	"`ni sans point minuscule (ı) = ²=i"
 	"`ni pointé majuscule (İ) = ²°I"
@@ -141,13 +143,15 @@ MsgBox("AZERTuTaTi² 1.1 est lancé !"
 :?*:²^s::ŝ
 
 ;Français
-:?*:²éé::É ; ² PUIS Shift + 2 (=touche du é) = É
+:?*:²éé::É
 :?*:²èè::È
 :?*:²çç::Ç
 :?*:²àà::À
 :?*:²ùù::Ù
 :C?*:²¨Y::Ÿ
 !;::Send "·" ; Alt + Point-virgule = ·, point médian
+:?*:²--::–
+:?*:²__::—
 :C?*:²;::·
 :?*:²oe::œ
 :?*:²ae::æ
