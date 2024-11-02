@@ -1,11 +1,35 @@
 ---
-aliases: AZERTuTaTi² 1.2
+aliases: AZERTuTaTi² 1.2.1
 license: MIT
-date: 2024-10-30
-version: Release 1.2
+date: 2024-11-03
+version: Release 1.2.1
 author: Ilī-Yahu
 contact: Ili-Yahu@pm.me
 ---
+
+![Version](https://img.shields.io/badge/version-1.2.1-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platforme](https://img.shields.io/badge/platform-Windows-lightgrey)
+
+# Table des matières
+- [Installation](#installation)
+  - [Avertissements](#avertissements)
+  - [Prérequis](#prérequis)
+  - [Installer AZERTuTaTi²](#installer-azertutatI)
+  - [Lancer le script](#lancer-le-script)
+- [Mode d'emploi](#mode-demploi)
+  - [Logique](#logique)
+  - [Commandes de base](#commandes-de-base)
+  - [Liste des commandes](#liste-des-commandes)
+- [Utilisation avancée](#utilisation-avancée)
+- [Problèmes connus](#problèmes-connus)
+
+# Démarrage rapide
+1. Installez AutoHotKey v2.0
+2. Téléchargez AZERTuTaTi²
+3. Double-cliquez sur le fichier .ahk
+4. Utilisez `Ctrl + Alt + ²` pour voir tous les raccourcis
+
 # Installation
 ## Avertissements
 AZERTuTaTi² (/azèrtoutati au carré/) a été testé sur un ordinateur Windows 11 avec un clavier AZERTY de France. Il n'est pas garanti qu'il se comporte de la même manière sur tous les logiciels. **Veuillez me remonter tout problème que vous pourriez rencontrer pour que je puisse les patcher.**

@@ -1,9 +1,9 @@
 ﻿;===============================
-; AZERTuTaTi² 1.2
+; AZERTuTaTi² 1.2.1
 ;===============================
-MsgBox("AZERTuTaTi² 1.2 est lancé !"
+MsgBox("AZERTuTaTi² 1.2.1 est lancé !"
 	"`nVous n'avez pas besoin de garder cette fenetre ouverte car AZERTuTaTi² continuera à fonctionner en arrière-plan."
-	"`n`nAppuyez sur Ctrl+  Alt + ² pour afficher la liste complète des raccourcis disponibles."
+	"`n`nAppuyez sur Ctrl + Alt + ² pour afficher la liste complète des raccourcis disponibles."
 	"`nAppuyez sur Ctrl +  Alt + f si vous souhaitez désactiver le script."
 	)
 ;===============================
