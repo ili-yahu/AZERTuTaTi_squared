@@ -1,15 +1,10 @@
----
-aliases: AZERTuTaTi² 1.2.1
-license: MIT
-date: 2024-11-03
-version: Release 1.2.1
-author: Ilī-Yahu
-contact: Ili-Yahu@pm.me
----
-
+![Name](https://img.shields.io/badge/AZERTuTaTi²_1.2.1-darkred)
+![License](https://img.shields.io/badge/license-MIT-red)
+![Platform](https://img.shields.io/badge/platform-Windows--MacOS--Linux-lightgrey)
 ![Version](https://img.shields.io/badge/version-1.2.1-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Platforme](https://img.shields.io/badge/platform-Windows-lightgrey)
+![Date](https://img.shields.io/badge/date-2024--11--03-lightblue)
+![Author](https://img.shields.io/badge/author-Il%C4%AB--yahu-green)
+[![Contact](https://img.shields.io/badge/contact-Ili--Yahu@pm.me-lightgreen)](mailto:Ili-Yahu@pm.me)
 
 # Table des matières
 - [Installation](#installation)
