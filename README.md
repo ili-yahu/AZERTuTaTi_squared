@@ -1,4 +1,3 @@
-![Name](https://img.shields.io/badge/AZERTuTaTi²_1.2.1-darkred)
 ![License](https://img.shields.io/badge/license-MIT-red)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Version](https://img.shields.io/badge/version-1.2.1-blue)
