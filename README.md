@@ -92,7 +92,7 @@ nb: Si tous les caractères tapés dans la string (séquence de caractères) son
 	- s cédille (şŞ) = `²çs`
 - *Mathématiques*
 	- Apostrophe arrière/backtick (\`) = `²''`
-	- ±, ≠, ≃, √, © et → = `²+-`, `²=/=`, `~~=` ou `²~=`, `²root`, `²(c)`, `²->`"
+	- ±, ≠, ≃, √, © et → = `²+-`, `²=/=`, `~~=` ou `²~=`, `²root`, `²(c)`, `²->`
 	- Fraction unicode (⁄ ≠ /) = `²//`
 	- Fractions unicode irréductibles = `NUMÉRATEUR/DÉNOMINATEUR`
 	- Numérateurs pour fractions unicode = `²NUMÉRATEUR/n`
