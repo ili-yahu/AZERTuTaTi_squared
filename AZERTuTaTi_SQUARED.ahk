@@ -1,7 +1,7 @@
 ﻿;===============================
-; AZERTuTaTi² 1.2.1
+; AZERTuTaTi² 1.2.2
 ;===============================
-MsgBox("AZERTuTaTi² 1.2.1 est lancé !"
+MsgBox("AZERTuTaTi² 1.2.2 est lancé !"
 	"`nVous n'avez pas besoin de garder cette fenetre ouverte car AZERTuTaTi² continuera à fonctionner en arrière-plan."
 	"`n`nAppuyez sur Ctrl + Alt + ² pour afficher la liste complète des raccourcis disponibles."
 	"`nAppuyez sur Ctrl +  Alt + f si vous souhaitez désactiver le script."
@@ -49,7 +49,7 @@ MsgBox("AZERTuTaTi² 1.2.1 est lancé !"
 	"`nLettres avec un accent circonflexe (ĉĈ, ĝĜ, ĥĤ, ĵĴ, ŝŜ) = ²^c"
 	"`n`n*Mathématiques :"
 	"`nApostrophe arrière/backtick (\`) = ²''"
-	"`n±, ≠, ≃, √, ©, → = ²+-, ²=/=, ~~= ou ²~=, ²root, ²(c), ²-->"
+	"`n±, ≠, ≃, √, ©, → = ²+-, ²=/=, ~~= ou ²~=, ²root, ²(c), ²->"
 	"`nFraction unicode (⁄ ≠ /) = ²//"
 	"`nFractions unicode irréductibles = NUMÉRATEUR/DÉNOMINATEUR"
 	"`nNumérateurs pour fractions unicode = ²NUMÉRATEUR/n"
@@ -200,7 +200,7 @@ MsgBox("AZERTuTaTi² 1.2.1 est lancé !"
 :?*:²~=::≃ ; entré dans un soucis d'harmonisation mais déconseillé car nécessite de taper ² puis alt gr + 2 (tilde) et enfin =, ce qui n'est pas efficient
 :?*:²root::√ 
 :?*:²(c)::©
-:?*:²-->::→ ; retirez le ² si vous voulez obtenir systématiquement des flèches en tapant -->
+:?*:²->::→
 
 ;Fractions
 :?*:²//::⁄ ;signe de la fraction unicode (⁄ ≠ /)

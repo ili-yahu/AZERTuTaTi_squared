@@ -1,15 +1,9 @@
----
-aliases: AZERTuTaTi² 1.2.1
-license: MIT
-date: 2024-11-03
-version: Release 1.2.1
-author: Ilī-Yahu
-contact: Ili-Yahu@pm.me
----
-
-![Version](https://img.shields.io/badge/version-1.2.1-blue)
+![Version](https://img.shields.io/badge/version-1.2.2-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Platforme](https://img.shields.io/badge/platform-Windows-lightgrey)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![Date](https://img.shields.io/badge/date-2024--11--07-lightblue)
+![Author](https://img.shields.io/badge/author-Il%C4%AB--yahu-green)
+[![Contact](https://img.shields.io/badge/contact-Ili--Yahu@pm.me-lightgreen)](mailto:Ili-Yahu@pm.me)
 
 # Table des matières
 - [Installation](#installation)
@@ -98,7 +92,7 @@ nb: Si tous les caractères tapés dans la string (séquence de caractères) son
 	- s cédille (şŞ) = `²çs`
 - *Mathématiques*
 	- Apostrophe arrière/backtick (\`) = `²''`
-	- ±, ≠, ≃, √, © et → = `²+-`, `²=/=`, `~~=` ou `²~=`, `²root`, `²(c)`, `²-->`"
+	- ±, ≠, ≃, √, © et → = `²+-`, `²=/=`, `~~=` ou `²~=`, `²root`, `²(c)`, `²->`"
 	- Fraction unicode (⁄ ≠ /) = `²//`
 	- Fractions unicode irréductibles = `NUMÉRATEUR/DÉNOMINATEUR`
 	- Numérateurs pour fractions unicode = `²NUMÉRATEUR/n`
