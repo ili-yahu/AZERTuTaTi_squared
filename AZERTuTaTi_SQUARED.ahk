@@ -1,7 +1,7 @@
 ﻿;===============================
-; AZERTuTaTi² 1.2.2
+; AZERTuTaTi² 1.2.3
 ;===============================
-MsgBox("AZERTuTaTi² 1.2.2 est lancé !"
+MsgBox("AZERTuTaTi² 1.2.3 est lancé !"
 	"`nVous n'avez pas besoin de garder cette fenetre ouverte car AZERTuTaTi² continuera à fonctionner en arrière-plan."
 	"`n`nAppuyez sur Ctrl + Alt + ² pour afficher la liste complète des raccourcis disponibles."
 	"`nAppuyez sur Ctrl +  Alt + f si vous souhaitez désactiver le script."
@@ -17,7 +17,7 @@ MsgBox("AZERTuTaTi² 1.2.2 est lancé !"
 	"`n`n*Caractères spéciaux pour l'akkadien et le sumérien :"
 	"`nConsonnes emphatiques (ṣṢ,ṭṬ) = ²,s"
 	"`nShin (šŠ) = ²vs"
-	"`nH bref souscrit(ḫḪ) = ²vh"
+	"`nH bref souscrit(ḫḪ) = ²uh"
 	"`nG nasalisé (g̃G̃) = ~~g"
 	"`ndemi-rong gauche = ²4'"
 	"`ndemi-rong droit = ²6'"
@@ -65,7 +65,7 @@ MsgBox("AZERTuTaTi² 1.2.2 est lancé !"
 :?*:²vs::š
 :?*:~~g::g̃
 :?*:²,t::ṭ
-:?*:²vh::ḫ
+:?*:²uh::ḫ
 :?*:²6'::ʾ
 :?*:²4'::ʿ
 :?*:²[7::⸢

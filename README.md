@@ -1,7 +1,7 @@
-![Version](https://img.shields.io/badge/version-1.2.2-blue)
+![Version](https://img.shields.io/badge/version-1.2.3-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-![Date](https://img.shields.io/badge/date-2024--11--07-lightblue)
+![Date](https://img.shields.io/badge/date-2024--11--14-lightblue)
 ![Author](https://img.shields.io/badge/author-Il%C4%AB--yahu-green)
 [![Contact](https://img.shields.io/badge/contact-Ili--Yahu@pm.me-lightgreen)](mailto:Ili-Yahu@pm.me)
 
@@ -58,7 +58,7 @@ nb: Si tous les caractères tapés dans la string (séquence de caractères) son
 - *Caractères spéciaux pour l'akkadien et le sumérien*
 	- Consonnes emphatiques (ṣṢ, ṭṬ) = `²,s`, `²,t`
 	- Shin (šŠ) = `²vs`
-	- H bref souscrit(ḫḪ) = `²vh`
+	- H bref souscrit(ḫḪ) = `²uh`
 	- G nasalisé (g̃G̃ ou ĝĜ) = `~~g` ou `²^g`
 	- demi-rong gauche (ʿ) = `²4'`
 	- demi-rong droit (ʾ) = `²6'`
