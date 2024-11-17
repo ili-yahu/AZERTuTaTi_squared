@@ -1,7 +1,7 @@
-![Version](https://img.shields.io/badge/version-1.2.3-blue)
+![Version](https://img.shields.io/badge/version-1.3.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-![Date](https://img.shields.io/badge/date-2024--11--14-lightblue)
+![Date](https://img.shields.io/badge/date-2024--11--17-lightblue)
 ![Author](https://img.shields.io/badge/author-Il%C4%AB--yahu-green)
 [![Contact](https://img.shields.io/badge/contact-Ili--Yahu@pm.me-lightgreen)](mailto:Ili-Yahu@pm.me)
 
@@ -90,13 +90,32 @@ nb: Si tous les caractères tapés dans la string (séquence de caractères) son
 	- i pointé majuscule (İ) = `²°I`
 	- g doux (ğĞ) = `²ug`
 	- s cédille (şŞ) = `²çs`
-- *Mathématiques*
+- *Mathématiques et autres caractères spéciaux*
 	- Apostrophe arrière/backtick (\`) = `²''`
-	- ±, ≠, ≃, √, © et → = `²+-`, `²=/=`, `~~=` ou `²~=`, `²root`, `²(c)`, `²->`
+	- Signe plus ou moins (±) = `²+-`
+	- ≠ = `²=/=`
+	- Approximation (≃) = `~~=` ou `²~=`
+	- Racine (√) = `²racine`
+	- Copyright (©) = `²(c)`
+	- → = `²->`
 	- Fraction unicode (⁄ ≠ /) = `²//`
 	- Fractions unicode irréductibles = `NUMÉRATEUR/DÉNOMINATEUR`
 	- Numérateurs pour fractions unicode = `²NUMÉRATEUR/n`
 	- Dénominateurs pour fractions unicode = `²/DÉNOMINATEUR`
+
+- *Devises*
+	- Bitcoin (₿) = `²dBTC`
+	- Cent (¢) = `²dcent`
+	- Dong (₫) = `²dDONG` ou `²dVNG`
+	- Hryvnie (₴) = `²dHRY` ou `²dUAH`
+	- Livre turque (₺) = `²dLT` ou `²dTRY`
+	- Naira (₦) = `²dNAIRA` ou `²dNGN`
+	- Rouble (₽) = `²dROUB` ou `²dRUB`
+	- Roupie (₹) = `²dROUP` ou `²dINR`
+	- Shekel (₪) = `dSQL` ou `dILS`
+	- Won (₩) = `²dWON` ou `²dKRW`
+	- Yen (¥) = `²dYEN` ou `²dJPY`
+	- Yuan (Ұ) = `²dYUAN` ou `²dCNY`
 
 ---
 ## Utilisation avancée

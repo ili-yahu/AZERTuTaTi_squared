@@ -1,7 +1,7 @@
 ﻿;===============================
-; AZERTuTaTi² 1.2.3
+; AZERTuTaTi² 1.3.0
 ;===============================
-MsgBox("AZERTuTaTi² 1.2.3 est lancé !"
+MsgBox("AZERTuTaTi² 1.3.0 est lancé !"
 	"`nVous n'avez pas besoin de garder cette fenetre ouverte car AZERTuTaTi² continuera à fonctionner en arrière-plan."
 	"`n`nAppuyez sur Ctrl + Alt + ² pour afficher la liste complète des raccourcis disponibles."
 	"`nAppuyez sur Ctrl +  Alt + f si vous souhaitez désactiver le script."
@@ -47,13 +47,14 @@ MsgBox("AZERTuTaTi² 1.2.3 est lancé !"
 	"`neszett = ²ss"
 	"`nConsonnes avec hatchek (ďĎ, ľĽ, ťŤ) = ²vd ou ²d'"
 	"`nLettres avec un accent circonflexe (ĉĈ, ĝĜ, ĥĤ, ĵĴ, ŝŜ) = ²^c"
-	"`n`n*Mathématiques :"
+	"`n`n*Mathématiques et autres caractères spéciaux :"
 	"`nApostrophe arrière/backtick (\`) = ²''"
-	"`n±, ≠, ≃, √, ©, → = ²+-, ²=/=, ~~= ou ²~=, ²root, ²(c), ²->"
+	"`n±, ≠, ≃, √, ©, → = ²+-, ²=/=, ~~= ou ²~=, ²racine, ²(c), ²->"
 	"`nFraction unicode (⁄ ≠ /) = ²//"
 	"`nFractions unicode irréductibles = NUMÉRATEUR/DÉNOMINATEUR"
 	"`nNumérateurs pour fractions unicode = ²NUMÉRATEUR/n"
 	"`nDénominateurs pour fractions unicode = ²/DÉNOMINATEUR"
+	"`nDevises = ²dDEVISE"
 	"`n`nAppuyez sur Ctrl +  Alt + f si vous souhaitez désactiver le script."
 	)
 
@@ -198,7 +199,7 @@ MsgBox("AZERTuTaTi² 1.2.3 est lancé !"
 :?*:²=/=::≠
 :?*:~~=::≃
 :?*:²~=::≃ ; entré dans un soucis d'harmonisation mais déconseillé car nécessite de taper ² puis alt gr + 2 (tilde) et enfin =, ce qui n'est pas efficient
-:?*:²root::√ 
+:?*:²racine::√ 
 :?*:²(c)::©
 :?*:²->::→
 
@@ -247,3 +248,27 @@ MsgBox("AZERTuTaTi² 1.2.3 est lancé !"
 :?*:²/7::₇
 :?*:²/8::₈
 :?*:²/9::₉
+
+;Devises
+:?*:²dBTC::₿
+:?*:²dcent::¢
+:?*:dDONG::₫
+:?*:²dVNG::₫
+:?*:²dHRY::₴
+:?*:²dUAH::₴
+:?*:²dLT::₺
+:?*:²dTRY::₺
+:?*:²dNAIRA::₦
+:?*:²dNGN::₦
+:?*:²dROUB::₽
+:?*:²dRUB::₽
+:?*:²dROUP::₹
+:?*:²dINR::₹
+:?*:²dSQL::₪
+:?*:²dILS::₪
+:?*:²dWON::₩
+:?*:²dKRW::₩
+:?*:²dYEN::¥
+:?*:²dJPY::¥
+:?*:²dYUAN::Ұ
+:?*:²dCNY::Ұ
